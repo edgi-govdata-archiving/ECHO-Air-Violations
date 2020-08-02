@@ -3,7 +3,30 @@
 # ECHO-Air-Violations
 Jupyter notebook for examining ICIS-AIR_VIOLATION_HISTORY.
 
+Repo websites
+
+[all-enforcements](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/all-enforcements.ipynb)
+
+[icis-air-enforcements](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-enforcements.ipynb)
+
+[icis-air-inspections](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-inspections.ipynb)
+
+[icis-air-violation](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-violation.ipynb)
+
 ---
+
+## Notebook validation
+### Links to Notebooks
+
+[all-enforcements](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/all-enforcements.ipynb)
+
+[icis-air-enforcements](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-enforcements.ipynb)
+
+[icis-air-inspections](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-inspections.ipynb)
+
+[icis-air-violation](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-violation.ipynb)
+
+
 
 ## License & Copyright
 
