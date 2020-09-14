@@ -28,7 +28,7 @@ The above steps accomplish:
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
 
 # ECHO-Clean-Air-Act
-This archived repo is home to a project exploring reported violations of the Clean Air Act. The project involves a Jupyter Notebook that interfaces with EPA's ECHO enforcement and compliance history database.
+This **archived** repo is home to a project exploring reported violations of the Clean Air Act. The project involves Jupyter Notebooks that interface with EPA's ECHO enforcement and compliance history database.
 
 # Default branch - 'main'
 The 'master' branch is no longer the repo's primary branch in line with EDGI's policy decided here: https://github.com/edgi-govdata-archiving/overview/issues/241
